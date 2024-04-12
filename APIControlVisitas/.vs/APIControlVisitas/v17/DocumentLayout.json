@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|c:\\users\\dell\\documents\\proyectos .net\\controlvisitas\\apicontrolvisitas\\apicontrolvisitas\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|solutionrelative:apicontrolvisitas\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|c:\\users\\dell\\documents\\proyectos .net\\controlvisitas\\apicontrolvisitas\\apicontrolvisitas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|solutionrelative:apicontrolvisitas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|c:\\users\\dell\\documents\\proyectos .net\\controlvisitas\\apicontrolvisitas\\apicontrolvisitas\\controllers\\visitacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|solutionrelative:apicontrolvisitas\\controllers\\visitacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|c:\\users\\dell\\documents\\proyectos .net\\controlvisitas\\apicontrolvisitas\\apicontrolvisitas\\controllers\\residentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|solutionrelative:apicontrolvisitas\\controllers\\residentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|c:\\users\\dell\\documents\\proyectos .net\\controlvisitas\\apicontrolvisitas\\apicontrolvisitas\\dto\\visitapersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|solutionrelative:apicontrolvisitas\\dto\\visitapersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|c:\\users\\dell\\documents\\proyectos .net\\controlvisitas\\apicontrolvisitas\\apicontrolvisitas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|solutionrelative:apicontrolvisitas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|c:\\users\\dell\\documents\\proyectos .net\\controlvisitas\\apicontrolvisitas\\apicontrolvisitas\\dto\\residentepersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|solutionrelative:apicontrolvisitas\\dto\\residentepersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|c:\\users\\dell\\documents\\proyectos .net\\controlvisitas\\apicontrolvisitas\\apicontrolvisitas\\models\\controlvisitascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|solutionrelative:apicontrolvisitas\\models\\controlvisitascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|c:\\users\\dell\\documents\\proyectos .net\\controlvisitas\\apicontrolvisitas\\apicontrolvisitas\\models\\visita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|solutionrelative:apicontrolvisitas\\models\\visita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|c:\\users\\dell\\documents\\proyectos .net\\controlvisitas\\apicontrolvisitas\\apicontrolvisitas\\models\\casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|solutionrelative:apicontrolvisitas\\models\\casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|c:\\users\\dell\\documents\\proyectos .net\\controlvisitas\\apicontrolvisitas\\apicontrolvisitas\\models\\residente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|solutionrelative:apicontrolvisitas\\models\\residente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|c:\\users\\dell\\documents\\proyectos .net\\controlvisitas\\apicontrolvisitas\\apicontrolvisitas\\controllers\\invitadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|solutionrelative:apicontrolvisitas\\controllers\\invitadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|c:\\users\\dell\\documents\\proyectos .net\\controlvisitas\\apicontrolvisitas\\apicontrolvisitas\\models\\invitado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|solutionrelative:apicontrolvisitas\\models\\invitado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|c:\\users\\dell\\documents\\proyectos .net\\controlvisitas\\apicontrolvisitas\\apicontrolvisitas\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|solutionrelative:apicontrolvisitas\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|c:\\users\\dell\\documents\\proyectos .net\\controlvisitas\\apicontrolvisitas\\apicontrolvisitas\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|solutionrelative:apicontrolvisitas\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|c:\\users\\dell\\documents\\proyectos .net\\controlvisitas\\apicontrolvisitas\\apicontrolvisitas\\controllers\\casacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9BCA36-F740-4B10-924D-17D3BA0AFD72}|APIControlVisitas\\APIControlVisitas.csproj|solutionrelative:apicontrolvisitas\\controllers\\casacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "APIControlVisitas\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\appsettings.Development.json",
+              "RelativeToolTip": "APIControlVisitas\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T07:58:28.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ControlVisitasContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Models\\ControlVisitasContext.cs",
+              "RelativeDocumentMoniker": "APIControlVisitas\\Models\\ControlVisitasContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Models\\ControlVisitasContext.cs",
+              "RelativeToolTip": "APIControlVisitas\\Models\\ControlVisitasContext.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAArwEgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T06:07:44.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Casa.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Models\\Casa.cs",
+              "RelativeDocumentMoniker": "APIControlVisitas\\Models\\Casa.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Models\\Casa.cs",
+              "RelativeToolTip": "APIControlVisitas\\Models\\Casa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:55:01.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Visita.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Models\\Visita.cs",
+              "RelativeDocumentMoniker": "APIControlVisitas\\Models\\Visita.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Models\\Visita.cs",
+              "RelativeToolTip": "APIControlVisitas\\Models\\Visita.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:42:38.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VisitaPersona.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\DTO\\VisitaPersona.cs",
+              "RelativeDocumentMoniker": "APIControlVisitas\\DTO\\VisitaPersona.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\DTO\\VisitaPersona.cs",
+              "RelativeToolTip": "APIControlVisitas\\DTO\\VisitaPersona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:33:22.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Residente.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Models\\Residente.cs",
+              "RelativeDocumentMoniker": "APIControlVisitas\\Models\\Residente.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Models\\Residente.cs",
+              "RelativeToolTip": "APIControlVisitas\\Models\\Residente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:43:33.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResidentePersona.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\DTO\\ResidentePersona.cs",
+              "RelativeDocumentMoniker": "APIControlVisitas\\DTO\\ResidentePersona.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\DTO\\ResidentePersona.cs",
+              "RelativeToolTip": "APIControlVisitas\\DTO\\ResidentePersona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:43:05.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResidenteController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Controllers\\ResidenteController.cs",
+              "RelativeDocumentMoniker": "APIControlVisitas\\Controllers\\ResidenteController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Controllers\\ResidenteController.cs",
+              "RelativeToolTip": "APIControlVisitas\\Controllers\\ResidenteController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowEMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:42:13.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VisitaController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Controllers\\VisitaController.cs",
+              "RelativeDocumentMoniker": "APIControlVisitas\\Controllers\\VisitaController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Controllers\\VisitaController.cs",
+              "RelativeToolTip": "APIControlVisitas\\Controllers\\VisitaController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwF4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:42:07.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Program.cs",
+              "RelativeDocumentMoniker": "APIControlVisitas\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Program.cs",
+              "RelativeToolTip": "APIControlVisitas\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAWwBkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:35:57.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIControlVisitas\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIControlVisitas\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T07:32:41.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "APIControlVisitas\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Models\\Persona.cs",
+              "RelativeToolTip": "APIControlVisitas\\Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:59:58.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Invitado.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Models\\Invitado.cs",
+              "RelativeDocumentMoniker": "APIControlVisitas\\Models\\Invitado.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Models\\Invitado.cs",
+              "RelativeToolTip": "APIControlVisitas\\Models\\Invitado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:59:57.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "APIControlVisitas\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "APIControlVisitas\\Controllers\\PersonaController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAD8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:32:36.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvitadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Controllers\\InvitadoController.cs",
+              "RelativeDocumentMoniker": "APIControlVisitas\\Controllers\\InvitadoController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Controllers\\InvitadoController.cs",
+              "RelativeToolTip": "APIControlVisitas\\Controllers\\InvitadoController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwC4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:31:57.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CasaController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Controllers\\CasaController.cs",
+              "RelativeDocumentMoniker": "APIControlVisitas\\Controllers\\CasaController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Proyectos .NET\\ControlVisitas\\APIControlVisitas\\APIControlVisitas\\Controllers\\CasaController.cs",
+              "RelativeToolTip": "APIControlVisitas\\Controllers\\CasaController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:21:32.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

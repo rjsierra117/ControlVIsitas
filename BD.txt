@@ -1,0 +1,87 @@
+CREATE DATABASE [ControlVisitas]
+GO
+USE [ControlVisitas]
+GO
+/****** Object:  Table [dbo].[Casas]    Script Date: 12/4/2024 02:45:56 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Casas](
+	[IdCasa] [int] IDENTITY(1,1) NOT NULL,
+	[Modelo] [varchar](50) NULL,
+	[Color] [varchar](50) NULL,
+	[Estado] [tinyint] NULL,
+ CONSTRAINT [PK_Casas] PRIMARY KEY CLUSTERED 
+(
+	[IdCasa] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Invitados]    Script Date: 12/4/2024 02:45:56 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Invitados](
+	[IdInvitado] [int] IDENTITY(1,1) NOT NULL,
+	[IdPersona] [int] NULL,
+	[Estado] [tinyint] NULL,
+ CONSTRAINT [PK_Invitados] PRIMARY KEY CLUSTERED 
+(
+	[IdInvitado] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Personas]    Script Date: 12/4/2024 02:45:56 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Personas](
+	[IdPersona] [int] IDENTITY(1,1) NOT NULL,
+	[Nombre] [varchar](50) NULL,
+	[Apellido] [varchar](50) NULL,
+	[NoIdentificacion] [varchar](50) NULL,
+	[EsExtranjero] [bit] NULL,
+	[Genero] [tinyint] NULL,
+	[Estado] [tinyint] NULL,
+ CONSTRAINT [PK_Persona] PRIMARY KEY CLUSTERED 
+(
+	[IdPersona] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Residentes]    Script Date: 12/4/2024 02:45:56 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Residentes](
+	[IdResidente] [int] IDENTITY(1,1) NOT NULL,
+	[IdPersona] [int] NULL,
+	[IdCasa] [int] NULL,
+	[Estado] [tinyint] NULL,
+ CONSTRAINT [PK_Residentes] PRIMARY KEY CLUSTERED 
+(
+	[IdResidente] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Visitas]    Script Date: 12/4/2024 02:45:56 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Visitas](
+	[IdVisitas] [int] IDENTITY(1,1) NOT NULL,
+	[IdResidente] [int] NULL,
+	[IdInvitado] [int] NULL,
+	[Observaciones] [varchar](150) NOT NULL,
+	[Estado] [tinyint] NULL,
+ CONSTRAINT [PK_Visitas] PRIMARY KEY CLUSTERED 
+(
+	[IdVisitas] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
